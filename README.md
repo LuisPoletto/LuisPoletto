@@ -1,13 +1,22 @@
 <div align="center">
 
-<h1>Eaii! Eu me chamo Luis Poletto 👋</h1>
-<p>Seja bem-vindo(a) ao meu perfil!</p>
+<h1>Eaii! Eu sou o Luis Poletto 👋</h1>
+<p>Bem-vindo ao meu perfil!</p>
 
 ---
 
 ### 🚀 Minhas Tecnologias
 
-<img src="https://skillicons.dev/icons?i=flutter,react,js,docker" alt="Minhas Tecnologias" />
+<img src="https://skillicons.dev/icons?i=flutter,dart,python" alt="Minhas Tecnologias" />
+<img src="https://www.anthropic.com/images/icons/apple-touch-icon.png" width="48" alt="Claude" title="Claude / Anthropic" />
+
+---
+
+### 📊 Minhas Contribuições
+
+<img src="https://github-readme-stats.vercel.app/api?username=LuisPoletto&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=LuisPoletto&theme=tokyonight" alt="GitHub Streak" />
 
 ---
 
