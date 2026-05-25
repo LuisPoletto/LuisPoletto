@@ -1,7 +1,7 @@
 <div align="center">
 
 <h1>Eaii! Eu sou o Luis Poletto 👋</h1>
-<p>Bem-vindo ao meu perfil!</p>
+<p>Seja bem-vindo(a) ao meu perfil!</p>
 
 ---
 
