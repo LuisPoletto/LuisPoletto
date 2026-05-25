@@ -18,7 +18,7 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=LuisPoletto&theme=tokyonight" alt="GitHub Streak" />
 
   </td>
-    <td valign="middle" width="50%">
+  <td valign="top" width="50%">
 
 ### 🐍 Atividade
 
