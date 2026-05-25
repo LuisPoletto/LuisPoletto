@@ -1,7 +1,6 @@
 <div align="center">
 
-## Eaii! Eu sou o Luis Poletto 👋
-Bem-vindo ao meu perfil!
+## Eaii! Eu me chamo Luis Poletto, seja bem-vindo(a) ao meu perfil!! 👋
 
 <table>
   <tr>
