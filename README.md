@@ -1,6 +1,6 @@
 <div align="center">
 
-<h1>Eaii! Eu sou o Luis Poletto 👋</h1>
+<h1>Eaii! Eu me chamo Luis Poletto 👋</h1>
 <p>Seja bem-vindo(a) ao meu perfil!</p>
 
 ---
