@@ -16,8 +16,6 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=LuisPoletto&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=LuisPoletto&theme=tokyonight" alt="GitHub Streak" />
-
 ---
 
 ### 🐍 Atividade
