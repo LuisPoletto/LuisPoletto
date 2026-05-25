@@ -5,17 +5,11 @@
 <img src="https://skillicons.dev/icons?i=flutter,dart,python,java,html,css" alt="Minhas Tecnologias" />
 <img src="https://www.anthropic.com/images/icons/apple-touch-icon.png" width="48" alt="Claude" title="Claude / Anthropic" />
 
+---
+
 <table>
   <tr>
     <td valign="top" width="50%">
-
-### 🚀 Minhas Tecnologias
-
-<img src="https://skillicons.dev/icons?i=flutter,dart,python,java,html,css" alt="Minhas Tecnologias" />
-<img src="https://www.anthropic.com/images/icons/apple-touch-icon.png" width="48" alt="Claude" title="Claude / Anthropic" />
-
-  </td>
-  <td valign="top" width="50%">
 
 ### 📊 Minhas Contribuições
 
@@ -24,14 +18,15 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=LuisPoletto&theme=tokyonight" alt="GitHub Streak" />
 
   </td>
-  </tr>
-</table>
-
----
+  <td valign="top" width="50%">
 
 ### 🐍 Atividade
 
 <img src="https://raw.githubusercontent.com/LuisPoletto/LuisPoletto/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+
+  </td>
+  </tr>
+</table>
 
 ---
 
