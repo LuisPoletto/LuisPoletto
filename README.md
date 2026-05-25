@@ -1,6 +1,6 @@
 <div align="center">
 
-## Eaii! Eu me chamo Luis Poletto, seja bem-vindo(a) ao meu perfil!! 👋
+## Olá, eu me chamo Luis Poletto, seja bem-vindo(a) ao meu perfil!! 👋
 
 <img src="https://skillicons.dev/icons?i=flutter,dart,python,java,html,css" alt="Minhas Tecnologias" />
 <img src="https://www.anthropic.com/images/icons/apple-touch-icon.png" width="48" alt="Claude" title="Claude / Anthropic" />
